@@ -1,3 +1,9 @@
-# Last-Time
-Last Time is a simple app that helps you remember when you last did important tasks. Track things like cleaning your PC, backing up files, washing your car, changing filters, and more. Mark tasks complete, view their history, and see when they’re due again—all in one clean, organized app.
-Now this is only version 1 version 1.05.0 is on the way right now join my discord to get updates
+Last Time 
+a simple app that helps you keep track of when you last did important things.
+
+Create items, mark them as completed, view your history, and see when something is due again. You can now customize the app with accent colors, color wheels, and multiple themes to make it look the way you want.
+
+Last Time also includes a calendar for viewing your tracked activities and a notes tab for keeping important information in one place.
+
+Simple, organized, and customizable — Last Time helps you remember the things you don't want to forget. 
+Version 1.06.0 is out go try it
